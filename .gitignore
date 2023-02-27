@@ -1,2 +1,4 @@
-src/pom.xml
 .DS_Store
+target
+src/target/
+src/resources/application.properties
